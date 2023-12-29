@@ -8,3 +8,5 @@ This data science project series walks through step by step process of how to bu
    5. Jupyter notebook, visual studio code and pycharm as IDE
    6. Python flask for http server
    7. HTML/CSS/Javascript for UI
+      
+![BHP_website](https://github.com/Divya342/Banglore-Home-Price-Prediction-Real-Estate-/assets/114659084/8b08a88e-5aff-4c89-a58f-842cdbe4eb41)
